@@ -1,0 +1,15 @@
+Method,Features,Val_Accuracy,Predicted_Survived,File
+SVM (RBF),All,0.8212,161,output/SVM_RBF_All.csv
+KNN (k=5),Selected,0.8156,164,output/KNN_k5_Selected.csv
+Random Forest (Conservative),All,0.8156,161,output/RandomForest_Conservative_All.csv
+KNN (k=4),All,0.8101,141,output/KNN_k4_All.csv
+KNN (k=5),All,0.8101,170,output/KNN_k5_All.csv
+Random Forest (Balanced),All,0.8101,158,output/RandomForest_Balanced_All.csv
+Random Forest (Balanced),Selected,0.8045,143,output/RandomForest_Balanced_Selected.csv
+Logistic Regression,All,0.7989,159,output/LogisticRegression_All.csv
+KNN (k=4),Selected,0.7989,143,output/KNN_k4_Selected.csv
+SVM (RBF),Selected,0.7989,136,output/SVM_RBF_Selected.csv
+Logistic Regression,Selected,0.7821,157,output/LogisticRegression_Selected.csv
+Random Forest (Conservative),Selected,0.7765,141,output/RandomForest_Conservative_Selected.csv
+SVM (Linear),Selected,0.7765,152,output/SVM_Linear_Selected.csv
+SVM (Linear),All,0.7709,149,output/SVM_Linear_All.csv

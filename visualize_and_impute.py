@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Titanic Data Visualization and Imputation Script
-Visualizes data before and after imputation of missing values
-"""
-
 import csv
 import statistics
 from collections import defaultdict, Counter
